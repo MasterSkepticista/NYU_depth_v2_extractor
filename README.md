@@ -15,9 +15,10 @@ Some scipy.misc functions are DEPRECATED. So install an older version to get aro
 
 ```python
 pip install scipy==1.0.0
-
+```
 ```python
 from tqdm import tqdm # For progressbar ;)
 import h5py           # For .mat files
 import helper         # Accompanying file in root directory
 import scipy.misc     # For saving images
+```
